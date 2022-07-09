@@ -4,7 +4,7 @@ Testing API endpoints using Jest
 ```
 git clone https://github.com/gathoni-k/express-crud-jest.git
 ```
-## Install Dependencie
+## Install Dependencies
 ```bash
 npm install
 ```
@@ -12,7 +12,7 @@ npm install
 ```bash
 node index
 ```
-## Run tests
+## Run Tests
 ```bash
 npm test
 ```
